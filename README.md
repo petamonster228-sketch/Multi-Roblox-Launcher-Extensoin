@@ -1,4 +1,4 @@
-# Multi-Roblox-Launcher-Extensoin
+# Multi-Roblox-Launcher-Extension
 1. Extract this zip to any folder.
 2. Go to chrome://extensions
 3. Turn ON "Developer mode" (top right).
